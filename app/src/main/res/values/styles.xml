@@ -1,0 +1,13 @@
+<resources>
+    <!-- Base application theme. -->
+    <style name="MyAppTheme" parent="android:Theme.Material.Light">
+        <item name="android:titleTextColor">@color/colorAccent</item>
+        <item name="android:colorPrimary">@color/colorPrimary</item>
+        <item name="android:colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="android:colorAccent">@color/colorPrimary</item>
+        <item name="android:colorForeground">@color/colorPrimary</item>
+        <item name="android:navigationBarColor">@color/colorPrimary</item>
+        <item name="android:statusBarColor">@color/colorPrimaryDark</item>
+        <item name="android:textColorPrimaryInverse">@color/colorAccent</item>
+    </style>
+</resources>

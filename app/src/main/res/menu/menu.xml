@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/item_add_overlay"
+        android:icon="@drawable/ic_map_black_24px"
+        app:showAsAction="always"
+        android:title="@string/item_add_overlay" />
+    <item
+        android:id="@+id/item_add_kml"
+        android:icon="@drawable/ic_code_black_24px"
+        app:showAsAction="ifRoom"
+        android:title="@string/item_add_kml" />
+    <item
+        android:id="@+id/item_help"
+        android:icon="@drawable/ic_info_black_24px"
+        app:showAsAction="ifRoom"
+        android:title="@string/item_help" />
+</menu>

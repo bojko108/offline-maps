@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Offline Maps</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="button_ok">OK</string>
+    <string name="button_cancel">Cancel</string>
+    <string name="no_config">Config file not found! You need to create a new file and store it in %s.</string>
+    <string name="item_add_overlay">Add Basemap</string>
+    <string name="item_add_kml">Add KML</string>
+    <string name="item_help">Help</string>
+    <string name="label_choose_basemap">Choose Basemap</string>
+</resources>
